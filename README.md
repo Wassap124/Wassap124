@@ -19,11 +19,17 @@
 
 ## 🪄 Not Work Stuff
 🎮 Avid Gamer  
+
 🏋️ All about them gainz   
+
 🧑‍🍳 Love cooking   
+
 🥘 Love eating   
+
 🧘‍♂️ Stress reliefe when doing yoga  
+
 🥊 Or when getting punched in the face  
+
 🎸 Will win in a guitar battle  
 
 ---
