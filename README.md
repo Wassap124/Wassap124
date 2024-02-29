@@ -26,7 +26,7 @@
 
 🥘 Love eating   
 
-🧘‍♂️ Stress reliefe when doing yoga  
+🧘‍♂️ Stress relief when doing yoga  
 
 🥊 Or when getting punched in the face  
 
