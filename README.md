@@ -1,7 +1,4 @@
 # 👋 Hey there, **I'm Alon Kazimirsky (AKA Kazi)**
-<a href="https://www.linkedin.com/in/alon-kazimirsky-14b251159/" target="blank" align="right"> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wassap124&show_icons=true&count_private=true&theme=nord&hide=stars&rank_icon=github" alt="env0-logo-with-text">
-</a>
   
 👨‍💻 Full-Stack Developer  
 🇮🇱 Based in Israel  
