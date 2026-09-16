@@ -5,7 +5,7 @@
 🔧 Part of the **[Sentra](https://sentra.io/)** engineering team   
 
 ## 💼 Work Stuff 
-- Coding since 2017
+- Coding professionally since 2017
 - Mainly TSC, React, Node.js
 - Terraform and other IaCs
 - Love everything Devops - k8s, helm, and more
